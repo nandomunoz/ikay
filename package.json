@@ -2,7 +2,7 @@
   "name": "ikay",
   "version": "1.1.0",
   "description": "IKAY is a tool that you can visualize, identify and manage your fingerprint. I will show you a dashboard with part of the information that you delive to a website, every time you access by your browser.",
-  "homepage": "https://github.com/nandovejer/ikay#readme",
+  "homepage": "https://github.com/nandomunoz/ikay#readme",
   "scripts": {
     "build": "webpack --mode=development",
     "watch": "webpack --mode=development --watch",
@@ -26,10 +26,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/nandovejer/ikay.git"
+    "url": "git+ssh://git@github.com/nandomunoz/ikay.git"
   },
   "bugs": {
-    "url": "https://github.com/nandovejer/ikay/issues",
+    "url": "https://github.com/nandomunoz/ikay/issues",
     "email": ""
   },
   "engines": {
